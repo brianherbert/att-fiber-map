@@ -17,3 +17,4 @@ http://bl.ocks.org/sumbera/10463358 for adding a ton of markers to a leaflet map
 
 * In the future, hasGig.csv may not be included with the repo but leaving it in for now as an example.
 * Set starting bounding box based on CSV data instead of setting it statically in index.html.
+* Update the very old versions of Leaflet and D3
